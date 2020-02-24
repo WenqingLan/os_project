@@ -9,6 +9,6 @@
 
 ### lab3: See spec [here](https://github.com/WenqingLan/os_project/blob/master/osv/labs/lab3.md)  
 
-### Lab4: Open-ended project in progress. See spec [here](https://github.com/WenqingLan/os_project/blob/master/osv/labs/lab4.md)
+### lab4: Open-ended project in progress. See spec [here](https://github.com/WenqingLan/os_project/blob/master/osv/labs/lab4.md)
 
 
